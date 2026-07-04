@@ -1,0 +1,7 @@
+interface:
+  display_name: "Trivpass Content Planner"
+  short_description: "Plan and write Trivpass content."
+  default_prompt: "Use $trivpass-content-planner to research, plan, and create Trivpass social media content with calendar dates, content style, and captions."
+
+policy:
+  allow_implicit_invocation: true

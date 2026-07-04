@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800mm" height="1800mm" viewBox="0 0 800 1800" role="img" aria-label="Trivpass partner x-banner">
+  <title>Trivpass partner x-banner</title>
+  <desc>Print draft for villa and restaurant partner placements. Size: 80 x 180 cm.</desc>
+  <defs>
+    <style><![CDATA[
+      .canvas { fill: #faf7f2; }
+      .green { fill: #1f4d3a; }
+      .terracotta { fill: #c2603e; }
+      .ink { fill: #1a1d1b; }
+      .body { fill: #3a3f3c; }
+      .muted { fill: #6a706c; }
+      .surface { fill: #f3efe8; }
+      .surface-2 { fill: #ede8de; }
+      .line { stroke: #1f4d3a; stroke-width: 2; fill: none; }
+      .line-soft { stroke: #d8d0c2; stroke-width: 2; fill: none; }
+      .dotline { stroke: #bdb6aa; stroke-width: 2; stroke-dasharray: 3 7; fill: none; }
+      .wordmark { font-family: "Fraunces", "Iowan Old Style", "Hoefler Text", Georgia, serif; font-weight: 600; letter-spacing: -2px; }
+      .serif { font-family: "Fraunces", "Iowan Old Style", "Hoefler Text", Georgia, serif; font-weight: 600; }
+      .sans { font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .eyebrow { font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-weight: 700; letter-spacing: 2.4px; }
+      .button { fill: #1f4d3a; }
+    ]]></style>
+  </defs>
+
+  <rect class="canvas" x="0" y="0" width="800" height="1800"/>
+
+  <!-- Quiet brand mark in the background. Keep low contrast for print. -->
+  <g opacity="0.045" transform="translate(500 78) rotate(11) scale(0.75)">
+    <path class="green" fill-rule="evenodd" d="M 106.0 24.0 Q 96.0 28.0 89.5 36.5 Q 83.0 45.0 74.0 79.5 Q 65.0 114.0 78.0 121.5 Q 91.0 129.0 102.0 141.5 Q 113.0 154.0 117.5 163.5 Q 122.0 173.0 124.0 180.5 Q 126.0 188.0 126.5 200.5 Q 127.0 213.0 126.0 219.5 Q 125.0 226.0 122.5 233.5 Q 120.0 241.0 115.0 250.0 Q 110.0 259.0 98.5 270.5 Q 87.0 282.0 77.0 287.5 Q 67.0 293.0 60.5 295.0 Q 54.0 297.0 37.5 297.5 Q 21.0 298.0 12.5 330.0 Q 4.0 362.0 4.5 372.5 Q 5.0 383.0 9.5 391.5 Q 14.0 400.0 17.5 403.5 Q 21.0 407.0 29.5 411.5 Q 38.0 416.0 83.0 433.0 Q 128.0 450.0 133.0 444.5 Q 138.0 439.0 143.5 438.0 Q 149.0 437.0 153.0 438.5 Q 157.0 440.0 160.5 443.5 Q 164.0 447.0 166.5 454.0 Q 169.0 461.0 188.5 465.0 Q 208.0 469.0 229.0 471.0 Q 250.0 473.0 277.5 471.5 Q 305.0 470.0 332.5 463.0 Q 360.0 456.0 380.0 446.5 Q 400.0 437.0 418.5 423.5 Q 437.0 410.0 446.0 401.0 Q 455.0 392.0 464.0 380.5 Q 473.0 369.0 486.5 344.0 Q 500.0 319.0 510.5 285.0 Q 521.0 251.0 529.5 203.0 Q 538.0 155.0 543.5 132.5 Q 549.0 110.0 560.0 83.5 Q 571.0 57.0 582.5 41.0 Q 594.0 25.0 569.5 39.0 Q 545.0 53.0 529.0 59.0 Q 513.0 65.0 490.5 70.5 Q 468.0 76.0 441.0 79.0 Q 414.0 82.0 378.0 81.0 Q 342.0 80.0 320.5 77.0 Q 299.0 74.0 284.0 70.5 Q 269.0 67.0 263.5 72.5 Q 258.0 78.0 251.5 78.5 Q 245.0 79.0 239.5 75.0 Q 234.0 71.0 232.5 64.5 Q 231.0 58.0 208.0 50.5 Q 185.0 43.0 161.0 33.0 Q 137.0 23.0 126.5 21.5 Q 116.0 20.0 106.0 24.0 Z M 767.5 12.5 Q 778.0 5.0 764.5 4.5 Q 751.0 4.0 739.0 5.0 Q 727.0 6.0 716.5 8.0 Q 706.0 10.0 694.5 13.5 Q 683.0 17.0 672.5 22.0 Q 662.0 27.0 650.0 35.5 Q 638.0 44.0 629.0 53.5 Q 620.0 63.0 613.5 72.5 Q 607.0 82.0 602.0 92.0 Q 597.0 102.0 592.0 116.0 Q 587.0 130.0 583.5 143.5 Q 580.0 157.0 572.5 200.0 Q 565.0 243.0 560.0 265.0 Q 555.0 287.0 550.5 301.5 Q 546.0 316.0 537.0 336.0 Q 528.0 356.0 515.5 375.0 Q 503.0 394.0 486.0 411.5 Q 469.0 429.0 460.5 435.5 Q 452.0 442.0 439.0 450.0 Q 426.0 458.0 407.5 465.5 Q 389.0 473.0 409.0 472.0 Q 429.0 471.0 446.5 468.5 Q 464.0 466.0 481.5 462.0 Q 499.0 458.0 515.0 452.5 Q 531.0 447.0 543.0 441.5 Q 555.0 436.0 569.0 427.5 Q 583.0 419.0 593.5 410.5 Q 604.0 402.0 613.0 392.5 Q 622.0 383.0 634.5 364.5 Q 647.0 346.0 653.0 333.5 Q 659.0 321.0 663.5 308.5 Q 668.0 296.0 674.0 271.5 Q 680.0 247.0 689.5 188.5 Q 699.0 130.0 702.5 116.5 Q 706.0 103.0 710.5 90.5 Q 715.0 78.0 721.0 66.5 Q 727.0 55.0 733.5 46.0 Q 740.0 37.0 748.5 28.5 Q 757.0 20.0 767.5 12.5 Z"/>
+  </g>
+
+  <!-- Logo -->
+  <g transform="translate(82 88)">
+    <text class="wordmark green" x="0" y="72" font-size="80">trivpass</text>
+    <circle class="terracotta" cx="382" cy="65" r="7"/>
+  </g>
+
+  <!-- Hero message -->
+  <text class="eyebrow terracotta" x="82" y="260" font-size="22">BALI TRIPS, CLEARLY ARRANGED</text>
+  <text class="serif green" x="82" y="360" font-size="88">Real drivers.</text>
+  <text class="serif green" x="82" y="462" font-size="88">Real prices.</text>
+  <text class="serif green" x="82" y="564" font-size="88">No surprises.</text>
+
+  <text class="sans body" x="82" y="650" font-size="31">Plan tomorrow's Bali day with verified drivers,</text>
+  <text class="sans body" x="82" y="696" font-size="31">all-in prices, and 24/7 Seminyak ops.</text>
+
+  <!-- Proof points -->
+  <g transform="translate(82 790)">
+    <rect class="surface" x="0" y="0" width="636" height="300" rx="18"/>
+
+    <g transform="translate(38 52)">
+      <circle class="green" cx="24" cy="24" r="24"/>
+      <path d="M14 24 L22 32 L37 16" fill="none" stroke="#faf7f2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="sans ink" x="74" y="19" font-size="30" font-weight="650">Verified drivers</text>
+      <text class="sans muted" x="74" y="57" font-size="22">No random chat-group pickup.</text>
+    </g>
+
+    <g transform="translate(38 133)">
+      <circle class="green" cx="24" cy="24" r="24"/>
+      <text class="sans" x="12" y="33" font-size="28" font-weight="700" fill="#faf7f2">IDR</text>
+      <text class="sans ink" x="74" y="19" font-size="30" font-weight="650">All-in pricing</text>
+      <text class="sans muted" x="74" y="57" font-size="22">Driver, tickets, fuel, parking, taxes.</text>
+    </g>
+
+    <g transform="translate(38 214)">
+      <circle class="green" cx="24" cy="24" r="24"/>
+      <path d="M15 24 h18 m-9 -9 v18" fill="none" stroke="#faf7f2" stroke-width="5" stroke-linecap="round"/>
+      <text class="sans ink" x="74" y="19" font-size="30" font-weight="650">One team on the line</text>
+      <text class="sans muted" x="74" y="57" font-size="22">24/7 support from Seminyak.</text>
+    </g>
+  </g>
+
+  <!-- Receipt signature -->
+  <g transform="translate(82 1160)">
+    <rect class="canvas" x="0" y="0" width="636" height="250" rx="16" stroke="#d8d0c2" stroke-width="2"/>
+    <text class="eyebrow terracotta" x="34" y="52" font-size="19">WHAT YOU SEE IS WHAT YOU PAY</text>
+    <text class="sans body" x="34" y="105" font-size="25">Verified driver</text>
+    <line class="dotline" x1="250" y1="98" x2="430" y2="98"/>
+    <text class="sans green" x="456" y="105" font-size="25" font-weight="650">Included</text>
+    <text class="sans body" x="34" y="157" font-size="25">Tickets and trip costs</text>
+    <line class="dotline" x1="300" y1="150" x2="430" y2="150"/>
+    <text class="sans green" x="456" y="157" font-size="25" font-weight="650">Itemized</text>
+    <text class="sans body" x="34" y="209" font-size="25">Checkout surprises</text>
+    <line class="dotline" x1="276" y1="202" x2="430" y2="202"/>
+    <text class="sans terracotta" x="456" y="209" font-size="25" font-weight="650">No</text>
+  </g>
+
+  <!-- QR and CTA -->
+  <g transform="translate(82 1484)">
+    <rect class="green" x="0" y="0" width="636" height="220" rx="20"/>
+    <g transform="translate(34 34)">
+      <rect fill="#faf7f2" x="0" y="0" width="152" height="152" rx="10"/>
+      <rect class="ink" x="18" y="18" width="34" height="34"/>
+      <rect class="ink" x="100" y="18" width="34" height="34"/>
+      <rect class="ink" x="18" y="100" width="34" height="34"/>
+      <rect class="ink" x="70" y="70" width="14" height="14"/>
+      <rect class="ink" x="92" y="70" width="14" height="14"/>
+      <rect class="ink" x="70" y="94" width="14" height="14"/>
+      <rect class="ink" x="116" y="88" width="18" height="18"/>
+      <rect class="ink" x="92" y="116" width="12" height="12"/>
+      <rect class="ink" x="118" y="122" width="16" height="16"/>
+      <text class="sans muted" x="23" y="82" font-size="15">QR</text>
+    </g>
+    <text class="serif" fill="#faf7f2" x="226" y="74" font-size="46">Scan to secure</text>
+    <text class="serif" fill="#faf7f2" x="226" y="126" font-size="46">your driver &amp; tickets</text>
+    <text class="sans" fill="#faf7f2" x="226" y="171" font-size="23">trivpass.com  /  partner code: ______</text>
+  </g>
+
+  <!-- Printer notes outside safe reading area but inside material bottom. -->
+  <text class="sans muted" x="82" y="1762" font-size="18">Replace QR with tracked partner URL before print. Keep bottom hardware clear.</text>
+</svg>
